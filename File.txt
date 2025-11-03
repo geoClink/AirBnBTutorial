@@ -1,0 +1,6 @@
+Step 1: Create a new asset catalog
+• In Xcode’s Project Navigator, select your project (top item).
+• File > New > File…
+• Search for “Asset Catalog” (or choose Resource > Asset Catalog).
+• Name it (e.g., Assets or AppAssets) and make sure it’s added to your app target.
+• Finish. You’ll see a new .xcassets file in the navigator.

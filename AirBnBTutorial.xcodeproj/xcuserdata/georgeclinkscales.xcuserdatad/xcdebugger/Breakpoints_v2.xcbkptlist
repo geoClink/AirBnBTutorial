@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "39E7294C-9BCF-4AF5-B814-4CF150DBAF80"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFEA57F8-4DDB-41B7-B9A3-F6D907A8505C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirBnBTutorial/Core/Explore/View/DestinationSearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "DestinationSearchView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "EFEA57F8-4DDB-41B7-B9A3-F6D907A8505C - 643f81873283ad71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirBnBTutorial.DestinationSearchView.show.getter : Swift.Bool"
+                  moduleName = "AirBnBTutorial.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgeclinkscales/Documents/Swift/AirBnBTutorial/AirBnBTutorial/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "EFEA57F8-4DDB-41B7-B9A3-F6D907A8505C - 84d2d43ffdf6956d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirBnBTutorial.DestinationSearchView.show.setter : Swift.Bool"
+                  moduleName = "AirBnBTutorial.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgeclinkscales/Documents/Swift/AirBnBTutorial/AirBnBTutorial/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "EFEA57F8-4DDB-41B7-B9A3-F6D907A8505C - 5d7c8e8f33239128"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirBnBTutorial.DestinationSearchView.show.modify : Swift.Bool"
+                  moduleName = "AirBnBTutorial.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgeclinkscales/Documents/Swift/AirBnBTutorial/AirBnBTutorial/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+               <Location
+                  uuid = "EFEA57F8-4DDB-41B7-B9A3-F6D907A8505C - 623eb386d0806f35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirBnBTutorial.DestinationSearchView.$show.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "AirBnBTutorial.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgeclinkscales/Documents/Swift/AirBnBTutorial/AirBnBTutorial/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

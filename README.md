@@ -88,31 +88,12 @@ Contributions are welcome. Suggested workflow:
 4. Add/update sample data and preview providers when applicable.
 5. Open a pull request describing your changes.
 
-License
--------
-This repository does not currently contain a LICENSE file. If you plan to publish this project publicly, consider adding a license such as the MIT license. If you want, I can add a `LICENSE` file for you.
 
-GitHub repository metadata (copy/paste)
---------------------------------------
-Repository description (short):
-"SwiftUI AirBnB-style tutorial app with sample listings, images, and MapKit integration — demo project for learning SwiftUI components and app structure."
 
-Suggested GitHub topics (keywords) — paste into the repo Settings → Topics:
-- swift
-- swiftui
-- ios
-- xcode
-- tutorial
-- airbnb
-- mapkit
-- ios-ui
-- sample-data
-- mobile-app
 
 Author / Contact
 ----------------
-Author: George Clinkscales (see source file headers for author metadata).
+Author: George Clinkscales 
 
 Generated on: 2026-03-11
 
-If you want a shorter README, one focused on contributors, or README with embedded screenshots/GIFs, tell me where you'd like screenshots stored (e.g. `docs/` or `Assets.xcassets`) and I will update the README and embed them.
